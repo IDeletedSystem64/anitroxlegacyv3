@@ -1,5 +1,7 @@
 # anitroxlegacyv3
 Original Code for Nyabot/projectcanaryv3, Now known as Anitrox/projectanitrox. This is from around early 2020, when I started getting better with Discord.JS before quitting it entirely until December 2020
+# Requirements
+Discord.JS v11 (You can get it by going to the folder with these files and running ``npm install discord.js-v11``, You'll need Node.JS installed as well to run NPM)
 # This is considered DISCONTINUED and is unsupported, You won't be able to get support.
 This uses Discord.JS v11 which is also unsupported and not recommended, Feel free to do whatever you want with this though, weather its expanding upon it, updating it to v12 or whatever. You don't have to provide credit. Some of this is still used in the new Anitrox, though is being replaced over time.
 # Want the new and modern Anitrox?
